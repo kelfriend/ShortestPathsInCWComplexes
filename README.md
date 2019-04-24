@@ -1,10 +1,6 @@
 # ShortestPathsCWComplexes
 GAP algorithms for calculating shortest paths in regular CW-complexes
 
-### Details:
-
-**Written by:** Kelvin Killeen
-
 ## Description: 
 
 A variety of algorithms using Dijkstra's shortest path procedure for use with the HAP
