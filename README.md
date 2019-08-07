@@ -1,4 +1,4 @@
-# ShortestPathsCWComplexes
+# Shortest Paths in CW-Complexes
 GAP algorithms for calculating shortest paths in regular CW-complexes
 
 ## Description: 
